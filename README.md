@@ -3,7 +3,7 @@
 An interactive **Power BI data analytics project** built using historical Olympic Games data.  
 The project combines athlete, event, country, games, results, and medal information to explore Olympic performance and uncover meaningful insights through data visualization.
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 The **Olympic Games Power BI Dashboard** provides an analytical view of Olympic history using multiple related datasets. It is designed to answer questions such as:
 
